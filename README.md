@@ -1,3 +1,4 @@
+<center>
 ![Coco on Food Network's Chopped](/assets/images/CKIM%20chopped.png)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imcocokim&show_icons=true&theme=tokyonight)
@@ -35,3 +36,4 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+</center>
