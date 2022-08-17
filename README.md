@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imcocokim&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imcocokim&layout=compact)](https://github.com/imcocokim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imcocokim&layout=compact&theme=dark&show_icons=true)](https://github.com/imcocokim/github-readme-stats)
 
 </div>
 
